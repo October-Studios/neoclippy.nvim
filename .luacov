@@ -1,0 +1,14 @@
+return {
+  include = {
+    "lua/template$",
+    "lua/template%/.+$",
+  },
+  modules = {
+    ["template"] = "lua/template.lua",
+    ["template.*"] = "lua/",
+  },
+  statsfile = 'luacov.stats",
+  reportfile = 'luacov.report',
+  -- includeuntestedfiles = true
+}
+-- vim:ft=lua

@@ -1,0 +1,5 @@
+generatedFiles:
+  - path: "doc/template.txt"
+    message: "`template.txt` is generated from README.md. Make changes there instead."
+ignoreAuthors:
+  - 'github-actions[bot]'
