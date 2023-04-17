@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request a feature for template
+about: Request a feature for neoclippy
 title: "Feat: "
 labels: new feature
 ---
@@ -16,4 +16,4 @@ labels: new feature
 
 ### Motivation
 
-<!-- Explain why you think it should be included in template.-->
+<!-- Explain why you think it should be included in neoclippy.-->

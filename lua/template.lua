@@ -1,7 +1,7 @@
 -- Organization: October Studios
 -- Developer: Cameron Howell (@crhowell3)
 -- License: MIT
--- Source: https://github.com/October-Studios/template.nvim
+-- Source: https://github.com/October-Studios/neoclippy.nvim
 local api = vim.api
 local config = require('config')
 local uconfig -- Stores user config

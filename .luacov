@@ -1,11 +1,11 @@
 return {
   include = {
-    "lua/template$",
-    "lua/template%/.+$",
+    "lua/neoclippy$",
+    "lua/neoclippy%/.+$",
   },
   modules = {
-    ["template"] = "lua/template.lua",
-    ["template.*"] = "lua/",
+    ["neoclippy"] = "lua/neoclippy.lua",
+    ["neoclippy.*"] = "lua/",
   },
   statsfile = 'luacov.stats",
   reportfile = 'luacov.report',

@@ -1,2 +1,2 @@
-# template.nvim
-A template repository for creating Neovim plugins
+# neoclippy.nvim
+A neoclippy repository for creating Neovim plugins

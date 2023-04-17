@@ -11,13 +11,13 @@ Options:
 
 INIT_TEMPLATE="call plug#begin(\"%s/.local/share/nvim/plugged\")
 \" Your plugins go here like
-Plug 'nvim-template/template.nvim'
+Plug 'nvim-neoclippy/neoclippy.nvim'
 call plug#end()
 \" Your Vim part of config goes here
 \" colorscheme onedark
 lua << END 
 -- Your lua part of config goes here 
-require'template'.setup {
+require'neoclippy'.setup {
 }
 END 
 \" Instructions:

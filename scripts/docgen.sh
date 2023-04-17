@@ -1,11 +1,11 @@
 PANVIMDOC_TAG_VERSION="v2.7.3"
 
-PANVIMDOWN_VIMDOC="template"
-PANVIMDOC_DESCRIPTION="A template repository for creating Neovim plugins"
+PANVIMDOWN_VIMDOC="neoclippy"
+PANVIMDOC_DESCRIPTION="A neoclippy repository for creating Neovim plugins"
 PANVIMDOC_PANDOC="README.md"
 PANVIMDOC_VERSION="NVIM v0.5.0"
 PANVIMDOC_TOC=true
-PANDOC_OUTPUT="doc/template.txt"
+PANDOC_OUTPUT="doc/neoclippy.txt"
 
 PANVIMDOC_INSTALLED=false
 
